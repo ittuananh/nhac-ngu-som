@@ -18,7 +18,7 @@ const CONFIG = {
     mess: 'okelahhh',
     messDesc: 'Tối nay Bi đi ngủ sớm nhoo.',
     btnAccept: 'Okiiiii lun <3',
-    messLink:'https://www.facebook.com/ta.pham.969952 //. VD: https://m.me/nam.nodemy
+    messLink:'https://www.facebook.com/ta.pham.969952 //. 
 }
 ```
 
